@@ -1,18 +1,22 @@
+**AI Engineer that ships to real users.** 2026 #SanFranciscoTechWeek by a16z panelist, ex-physics researcher.
+
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="⟨Roy|Medina⟩ · AI Engineer · Physicist · Monterrey, MX. Terminal: Physicist by day, programmer by night, mathematician when the stakes are high. In superposition until Observed.">
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-summary-dark.svg"><img src="assets/h-summary.svg" alt="Summary" height="40"></picture>
+Founding AI Engineer at [**Observer AI**](https://github.com/Roy3838/Observer): an **open-source orchestrator**, for **micro-agents**, that monitors anything using **local** models and acts when something happens.
 
-**AI Engineer that ships to real users.** 2026 #SanFranciscoTechWeek by a16z panelist, ex-physics researcher.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-tech-stack-dark.svg"><img src="assets/h-tech-stack.svg" alt="Tech Stack" height="40"></picture>
 
-Founding AI Engineer at [**Observer AI**](https://github.com/Roy3838/Observer): an **open-source micro-agent framework**, driven by an **orchestrator**, that monitors anything using **local** models and acts when something happens.
+<img src="assets/periodic.svg" width="100%" alt="The Periodic Table of Roy: TypeScript, Rust, Python, Julia, Swift, Kotlin, C, llama.cpp, Ollama, vLLM, PyTorch, Transformers.js, Whisper, MCP, Playwright, Tauri, WebSockets, Redis, Stripe, Docker, Cloudflare, AWS, FreeBSD, Qiskit, NumPy, Manim, LaTeX.">
 
-<br clear="right">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-experience-dark.svg"><img src="assets/h-experience.svg" alt="Experience" height="40"></picture>
-
-**Founding Engineer** · [Observer AI LLC](https://github.com/Roy3838/Observer) · Remote `2025 → now`
+| | |
+| :-- | :-- |
+| **Languages** | Python, TypeScript, Rust, Julia, Swift, Kotlin, C |
+| **AI** | MCP, RAG, PyTorch, Agent Evals, OpenAI API, Multi-Agent Systems |
+| **Computer Vision** | Decision Models, MultiModality, Transformers.js, ONNX, llama.cpp |
+| **MLOps & Infra** | GitHub Actions, Docker, Playwright, MLflow, FastAPI, Redis, AWS (Bedrock, EC2), Cloudflare (Pages, Workers, AI) |
+| **Spoken Languages** | Spanish (native), English (fluent), German (B1) |
 
 <a href="https://github.com/Roy3838/Observer"><img src="assets/observer.svg" width="100%" alt="Observer AI: 1.8k stars, 3k users, 140+ countries, 150+ forks. A monitored signal crosses a threshold and triggers call(), whatsapp() and telegram()."></a>
 
@@ -40,17 +44,7 @@ Founding AI Engineer at [**Observer AI**](https://github.com/Roy3838/Observer): 
 - **Hyper-Kamiokande**: PMT characterization
 - **Photon triplets**: entangled photon triplets via third-order SPDC
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-tech-stack-dark.svg"><img src="assets/h-tech-stack.svg" alt="Tech Stack" height="40"></picture>
 
-<img src="assets/periodic.svg" width="100%" alt="The Periodic Table of Roy: TypeScript, Rust, Python, Julia, Swift, Kotlin, C, llama.cpp, Ollama, vLLM, PyTorch, Transformers.js, Whisper, MCP, Playwright, Tauri, WebSockets, Redis, Stripe, Docker, Cloudflare, AWS, FreeBSD, Qiskit, NumPy, Manim, LaTeX.">
-
-| | |
-| :-- | :-- |
-| **Languages** | Python, TypeScript, Rust, Julia, Swift, Kotlin, C |
-| **AI** | MCP, RAG, PyTorch, Agent Evals, OpenAI API, Multi-Agent Systems |
-| **Computer Vision** | Decision Models, MultiModality, Transformers.js, ONNX, llama.cpp |
-| **MLOps & Infra** | GitHub Actions, Docker, Playwright, MLflow, FastAPI, Redis, AWS (Bedrock, EC2), Cloudflare (Pages, Workers, AI) |
-| **Spoken Languages** | Spanish (native), English (fluent), German (B1) |
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-selected-projects-dark.svg"><img src="assets/h-selected-projects.svg" alt="Selected Projects" height="40"></picture>
 
